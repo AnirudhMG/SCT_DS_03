@@ -20,5 +20,4 @@ We built a **Decision Tree Classifier** to predict whether a customer would subs
 
 ## Files
 
-- `bank.ipynb` –
-
+- `bank.ipynb` 
